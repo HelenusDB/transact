@@ -1,7 +1,7 @@
-package com.helenusdb.diago;
+package com.helenusdb.transact;
 
-import com.helenusdb.diago.exception.UnitOfWorkCommitException;
-import com.helenusdb.diago.exception.UnitOfWorkRollbackException;
+import com.helenusdb.transact.exception.UnitOfWorkCommitException;
+import com.helenusdb.transact.exception.UnitOfWorkRollbackException;
 
 /**
  * This interface provides a transactional context for managing database

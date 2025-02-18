@@ -1,4 +1,4 @@
-package com.helenusdb.diago;
+package com.helenusdb.transact;
 
 /**
  * A base UnitOfWork implementation that tracks changes to entities (clean, new, dirty, deleted)

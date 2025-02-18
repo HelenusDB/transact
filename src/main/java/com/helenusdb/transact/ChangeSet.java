@@ -1,4 +1,4 @@
-package com.helenusdb.diago;
+package com.helenusdb.transact;
 
 import java.util.Collections;
 import java.util.HashMap;

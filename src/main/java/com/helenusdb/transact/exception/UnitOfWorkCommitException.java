@@ -1,4 +1,4 @@
-package com.helenusdb.diago.exception;
+package com.helenusdb.transact.exception;
 
 import com.helenusdb.core.exception.HelenusdbException;
 
