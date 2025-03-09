@@ -1,3 +1,3 @@
-# HelenusDB Diago
+# HelenusDB Transact
 
 **Distributed Transaction Magic for Cassandra**
